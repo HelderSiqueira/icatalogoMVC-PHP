@@ -31,7 +31,7 @@
     });
 
     function editarCategoria(id){
-        window.location = `/categoria/edit/${id}`;  
+        window.location = `/categorias/edit/${id}`;  
     }
 
     function deletarCategoria(id){
